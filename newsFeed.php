@@ -28,7 +28,7 @@
     <div class="container">
         <h1 class="welcome">Chào mừng bạn <?php echo $_SESSION["username"]; ?>  đến với Vilas Việt Nam</h1>
         <p>
-            <?php echo $_SESSION["username"]; ?> đã đăng nhập thành công
+            <?php echo $_SESSION["username"]; ?> đã đăng nhập thành công!
         </p>
         
         <p>Bạn có muốn <a href="logout.php">Đăng Xuất</a></p>
